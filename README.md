@@ -1,2 +1,5 @@
 # Health-Data-Analysis-Project-Excel-
-This project highlights how Excel can be used to extract meaningful insights from healthcare data. By analyzing hospitals, diseases, demographics, and costs, healthcare providers and policymakers can make more data-driven decisions.
+##Objectives
+To analyze patient data from multiple hospitals and extract key healthcare insights.
+To explore disease patterns, treatment costs, demographic distributions, and insurance coverage.
+To build dashboards that help visualize hospital performance and patient statistics.
